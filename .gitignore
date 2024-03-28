@@ -1,3 +1,5 @@
 build
 .idea
 cmake-build*
+.xmake
+compile_commands
