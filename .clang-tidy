@@ -1,0 +1,7 @@
+FormatStyle: google
+CheckOptions:
+    # Make it stop complaining about header-only libraries
+    - key: misc-definitions-in-headers.HeaderFileExtensions
+      value: ""
+    - key: misc-definitions-in-headers.UseHeaderFileExtension
+      value: "1"
